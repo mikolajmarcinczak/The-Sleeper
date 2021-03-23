@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT2H46M51.2367892S" SolutionTotalViewTime="PT4H25.6367124S" SolutionTotalDebugTime="PT4.9949585S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper</SolutionFolder>
+  <SolutionCreattionDate>2020-11-06T10:08:44.204975+01:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-10-30T22:43:38.1057889+01:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp-firstpass.csproj</ProjectName>
+      <CreatedDate>2020-10-30T22:43:38.2031227+01:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp-Editor-firstpass.csproj</ProjectName>
+      <CreatedDate>2020-10-30T22:43:38.3109603+01:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT23.4614861S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\UpgradeMenu.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:59:53.5053956+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.4350432S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\UpgradePointsUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T03:00:58.1416126+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.4998821S" EditActiveTime="PT2M36.3449431S">
+      <ModifiedDate>2020-11-23T20:26:14.5798955+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\AmmoUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T19:39:15.2235441+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M17.6574848S" EditActiveTime="PT6M13.5426813S">
+      <ModifiedDate>2020-11-06T11:11:27.9065799+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\AudioManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-06T10:08:44.2708697+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M47.2136762S" EditActiveTime="PT31.2791737S">
+      <ModifiedDate>2020-11-23T21:15:20.9302791+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\AudioManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T21:14:31.2729609+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M50.5666964S" EditActiveTime="PT6M55.6563358S">
+      <ModifiedDate>2020-11-23T22:27:41.9062593+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>7</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp-firstpass.csproj</ProjectName>
+      <CreatedDate>2020-11-18T17:35:46.6430859+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M54.7470907S" EditActiveTime="PT5M9.078233S">
+      <ModifiedDate>2020-11-22T15:49:39.0656109+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\CameraShake.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T15:40:05.6950875+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.9949585S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-11-19T15:39:28.015486+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.2037216S" EditActiveTime="PT43.3916467S">
+      <ModifiedDate>2020-11-21T20:49:48.0549206+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Enemy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T20:48:36.224689+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M19.0441282S" EditActiveTime="PT9M52.0613781S">
+      <ModifiedDate>2020-11-23T21:19:19.2849011+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Enemy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T00:02:42.463987+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M36.9028223S" EditActiveTime="PT14M20.2431228S">
+      <ModifiedDate>2020-11-21T20:18:25.2522126+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\EnemyAI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T19:25:39.2057088+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M45.9291173S" EditActiveTime="PT3M42.3584398S">
+      <ModifiedDate>2020-11-22T00:02:29.929983+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\EnemyAI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T23:58:23.6671362+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M26.6808191S" EditActiveTime="PT4M12.5529025S">
+      <ModifiedDate>2020-11-21T17:03:08.8277627+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\GameMaster.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T16:44:04.1204694+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48M4.4196987S" EditActiveTime="PT23M51.3147959S">
+      <ModifiedDate>2020-11-23T23:04:28.2671878+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>6</EditedCount>
+      <ViewedCount>7</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\GameMaster.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T20:50:07.6070462+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M45.6614921S" EditActiveTime="PT2M53.8717822S">
+      <ModifiedDate>2020-11-22T20:30:05.0086193+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\GameOverUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T20:23:43.1208203+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M28.5176055S" EditActiveTime="PT7.2211425S">
+      <ModifiedDate>2020-11-23T21:13:34.0509748+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\GameOverUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T21:14:42.766397+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.4783947S" EditActiveTime="PT18.5696473S">
+      <ModifiedDate>2020-11-23T22:03:27.8904178+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\GameWonUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T22:03:03.7698047+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.3577713S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\GameWonUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:36:32.098744+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT56.6537692S" EditActiveTime="PT6M3.5556874S">
+      <ModifiedDate>2020-11-22T20:08:47.3326062+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\HealthUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T19:53:12.1390725+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M54.5205734S" EditActiveTime="PT33.2609924S">
+      <ModifiedDate>2020-11-23T20:21:59.6040165+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\HealthUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T19:04:01.3227403+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT57.0808428S" EditActiveTime="PT1M23.5561565S">
+      <ModifiedDate>2020-11-22T21:58:20.9829219+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\MenuManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T21:56:04.682957+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M38.354626S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\MenuManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-01-08T11:04:01.8756329+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.2900778S" EditActiveTime="PT1M40.0163626S">
+      <ModifiedDate>2020-11-20T20:19:47.974599+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\MoveTrail.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-20T20:12:50.0654739+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23M0.7072522S" EditActiveTime="PT29.6139228S">
+      <ModifiedDate>2020-11-21T23:29:28.2363046+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp-firstpass.csproj</ProjectName>
+      <CreatedDate>2020-11-19T04:10:11.9216051+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M22.4235808S" EditActiveTime="PT2M53.1828357S">
+      <ModifiedDate>2020-11-21T16:48:53.8502833+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T16:39:27.0148757+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24M2.8256363S" EditActiveTime="PT14M55.4603177S">
+      <ModifiedDate>2020-11-23T23:33:01.5578502+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T20:48:56.6969985+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT57.1258764S" EditActiveTime="PT50.8228103S">
+      <ModifiedDate>2020-11-23T19:48:37.5853994+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\PlayerStats.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T19:47:23.6596799+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M36.7825086S" EditActiveTime="PT14M29.6245648S">
+      <ModifiedDate>2020-11-20T20:09:28.0520486+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Shooting.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-19T15:37:59.9716348+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M55.0746365S" EditActiveTime="PT21.5287555S">
+      <ModifiedDate>2020-11-06T10:14:14.0610898+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Sound.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-06T10:09:00.4823291+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M33.8956471S" EditActiveTime="PT6M29.4884032S">
+      <ModifiedDate>2020-11-23T22:53:30.7751937+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Spawner.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T22:38:37.5624584+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M38.1807321S" EditActiveTime="PT4M18.565274S">
+      <ModifiedDate>2020-11-22T16:49:48.9595691+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\StatusIndicator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T16:30:16.2379126+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M13.2799594S" EditActiveTime="PT37.6352689S">
+      <ModifiedDate>2020-11-22T17:24:03.0133969+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\StatusIndicator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-22T17:22:09.5610538+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M7.841036S" EditActiveTime="PT9M55.8140401S">
+      <ModifiedDate>2020-11-23T21:08:03.2153603+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\UpgradeMenu.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T20:15:12.9734379+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.4614861S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\UpgradeMenu.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:59:53.5053956+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M24.4444938S" EditActiveTime="PT1.57622S">
+      <ModifiedDate>2020-11-23T19:06:45.0167458+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\UpgradePointsUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T18:59:48.5896471+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9524234S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\UpgradePointsUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-23T21:25:22.1280468+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M5.4917772S" EditActiveTime="PT5M35.9618703S">
+      <ModifiedDate>2020-11-20T20:46:34.1289271+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Weapon.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-20T20:15:38.3942063+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT40M23.3703745S" EditActiveTime="PT14M44.0870823S">
+      <ModifiedDate>2020-11-23T21:10:29.828818+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>5</EditedCount>
+      <ViewedCount>7</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Weapon.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2020-11-21T20:52:20.8436922+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT4.4310495S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\UpgradePointsUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T03:00:58.1416126+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.4614861S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\UpgradeMenu.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:59:53.5053956+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M48.4574102S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\GameMaster.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:39:25.2396094+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.3577713S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\GameWonUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:36:32.098744+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9919392S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\GameOverUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T02:35:41.3377461+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.2085975S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Enemy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T00:00:58.4565689+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M3.9798643S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\AudioManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-05T00:00:11.0708462+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M31.613609S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\MenuManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-02-04T23:42:56.8815099+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.7430139S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\MenuManager.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-01-08T11:04:01.8756329+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2274369S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Weapon.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-01-08T11:02:23.1780588+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.6727144S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-01-08T11:02:21.9734854+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1056323S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp-firstpass.csproj</ProjectName>
+      <CreatedDate>2021-01-08T11:02:19.8668548+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0768767S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assets\Scripts\AmmoUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\The Sleeper - projektowanie gier interaktywnych\The Sleeper\Assembly-CSharp.csproj</ProjectName>
+      <CreatedDate>2021-01-08T11:02:19.7889793+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>

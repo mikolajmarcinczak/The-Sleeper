@@ -1,0 +1,36 @@
+
+
+20.11.2020 20:15:30 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
+
+21.11.2020 17:16:38 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
+
+21.11.2020 17:17:44 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
+
+23.11.2020 18:59:33 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
+
+23.11.2020 19:39:01 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
+
+23.11.2020 20:00:57 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
+
+23.11.2020 20:44:46 :
+System.Runtime.InteropServices.COMException (0x8000FFFF): Katastrofalny błąd. (Wyjątek od HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   w EnvDTE.Document.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.DocumentEvents_DocumentOpened(Document document) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 640
